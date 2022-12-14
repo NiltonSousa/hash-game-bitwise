@@ -1,0 +1,19 @@
+{
+  "name": "hash-game-bitwise",
+  "version": "1.0.0",
+  "description": "A simple hash game that use bitwise operators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiltonSousa/hash-game-bitwise.git"
+  },
+  "author": "Nilton Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiltonSousa/hash-game-bitwise/issues"
+  },
+  "homepage": "https://github.com/NiltonSousa/hash-game-bitwise#readme"
+}
